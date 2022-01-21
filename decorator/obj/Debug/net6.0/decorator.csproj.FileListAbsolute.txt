@@ -1,0 +1,15 @@
+/home/shavendra/Desktop/pattern/decorator/bin/Debug/net6.0/decorator
+/home/shavendra/Desktop/pattern/decorator/bin/Debug/net6.0/decorator.deps.json
+/home/shavendra/Desktop/pattern/decorator/bin/Debug/net6.0/decorator.runtimeconfig.json
+/home/shavendra/Desktop/pattern/decorator/bin/Debug/net6.0/decorator.dll
+/home/shavendra/Desktop/pattern/decorator/bin/Debug/net6.0/ref/decorator.dll
+/home/shavendra/Desktop/pattern/decorator/bin/Debug/net6.0/decorator.pdb
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.csproj.AssemblyReference.cache
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.AssemblyInfoInputs.cache
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.AssemblyInfo.cs
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.csproj.CoreCompileInputs.cache
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.dll
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/ref/decorator.dll
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.pdb
+/home/shavendra/Desktop/pattern/decorator/obj/Debug/net6.0/decorator.genruntimeconfig.cache
