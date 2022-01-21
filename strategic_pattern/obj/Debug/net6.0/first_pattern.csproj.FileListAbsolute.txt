@@ -1,0 +1,15 @@
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.csproj.AssemblyReference.cache
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.AssemblyInfoInputs.cache
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.AssemblyInfo.cs
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.csproj.CoreCompileInputs.cache
+/home/shavendra/Desktop/designing pattern/first_pattern/bin/Debug/net6.0/first_pattern
+/home/shavendra/Desktop/designing pattern/first_pattern/bin/Debug/net6.0/first_pattern.deps.json
+/home/shavendra/Desktop/designing pattern/first_pattern/bin/Debug/net6.0/first_pattern.runtimeconfig.json
+/home/shavendra/Desktop/designing pattern/first_pattern/bin/Debug/net6.0/first_pattern.dll
+/home/shavendra/Desktop/designing pattern/first_pattern/bin/Debug/net6.0/ref/first_pattern.dll
+/home/shavendra/Desktop/designing pattern/first_pattern/bin/Debug/net6.0/first_pattern.pdb
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.dll
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/ref/first_pattern.dll
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.pdb
+/home/shavendra/Desktop/designing pattern/first_pattern/obj/Debug/net6.0/first_pattern.genruntimeconfig.cache

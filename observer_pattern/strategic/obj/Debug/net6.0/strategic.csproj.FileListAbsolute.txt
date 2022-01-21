@@ -1,0 +1,15 @@
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/bin/Debug/net6.0/strategic
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/bin/Debug/net6.0/strategic.deps.json
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/bin/Debug/net6.0/strategic.runtimeconfig.json
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/bin/Debug/net6.0/strategic.dll
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/bin/Debug/net6.0/ref/strategic.dll
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/bin/Debug/net6.0/strategic.pdb
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.csproj.AssemblyReference.cache
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.GeneratedMSBuildEditorConfig.editorconfig
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.AssemblyInfoInputs.cache
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.AssemblyInfo.cs
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.csproj.CoreCompileInputs.cache
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.dll
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/ref/strategic.dll
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.pdb
+/home/shavendra/Desktop/designing pattern/observer_pattern/strategic/obj/Debug/net6.0/strategic.genruntimeconfig.cache
