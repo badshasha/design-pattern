@@ -1,0 +1,15 @@
+/home/shavendra/Desktop/pattern/factory pattern/bin/Debug/net6.0/factory pattern
+/home/shavendra/Desktop/pattern/factory pattern/bin/Debug/net6.0/factory pattern.deps.json
+/home/shavendra/Desktop/pattern/factory pattern/bin/Debug/net6.0/factory pattern.runtimeconfig.json
+/home/shavendra/Desktop/pattern/factory pattern/bin/Debug/net6.0/factory pattern.dll
+/home/shavendra/Desktop/pattern/factory pattern/bin/Debug/net6.0/ref/factory pattern.dll
+/home/shavendra/Desktop/pattern/factory pattern/bin/Debug/net6.0/factory pattern.pdb
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.csproj.AssemblyReference.cache
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.AssemblyInfoInputs.cache
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.AssemblyInfo.cs
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.csproj.CoreCompileInputs.cache
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.dll
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/ref/factory pattern.dll
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.pdb
+/home/shavendra/Desktop/pattern/factory pattern/obj/Debug/net6.0/factory pattern.genruntimeconfig.cache
